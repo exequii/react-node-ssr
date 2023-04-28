@@ -1,2 +1,5 @@
-# react-node-ssr
- Estructura Base para generar una aplicacion React y Node con Server Side Rendering
+Ejecutar primero :
+
+npm run build
+
+npm run start
